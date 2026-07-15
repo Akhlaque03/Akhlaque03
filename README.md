@@ -4,7 +4,7 @@
 
 I am passionate about building data-driven solutions using Machine Learning, Python, and SQL.
 
-## 🛠 Skills
+##  Skills
 
 - Python
 - SQL
@@ -26,7 +26,7 @@ Machine Learning Regression project predicting hourly bike rental demand using w
 ### ⏰ Employee OverTime Prediction
 Classification project predicting employee overtime probability using multiple machine learning algorithms and Streamlit deployment.
 
-## 📫 Connect With Me
+##  Connect With Me
 
 LinkedIn:
 https://www.linkedin.com/in/akhlaque-alam-788a53410/
