@@ -75,3 +75,12 @@ Python | SQL | Scikit-learn | Streamlit
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhlaque03&theme=tokyonight" />
 </p>
+
+
+
+
+## GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akhlaque03/Akhlaque03/gh-pages/github-contribution-grid-snake.svg" />
+</p>
