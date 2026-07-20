@@ -51,6 +51,12 @@ Machine Learning Classification project to predict employee overtime using multi
 **Tools:** Python | Scikit-learn | Streamlit
 
 
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akhlaque03/Akhlaque03/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 
 
