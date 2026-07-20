@@ -101,3 +101,13 @@ Python | SQL | Scikit-learn | Streamlit
 </a>
 
 </p>
+
+
+
+
+
+## Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akhlaque03&label=Profile%20Views&style=for-the-badge" />
+</p>
