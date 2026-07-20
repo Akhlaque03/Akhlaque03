@@ -16,7 +16,7 @@
 
 ## About Me
 
-- Data Science enthusiast focused on Machine Learning and Data Analytics
+- Passionate about Machine Learning and Data Analytics with a focus on building data-driven solutions
 - Skilled in Python, SQL, Scikit-learn and Streamlit
 - Experienced in Exploratory Data Analysis (EDA) and Data Visualization using Tableau
 - Building Machine Learning projects using Regression and Classification techniques
@@ -29,7 +29,7 @@
 
 - Advanced Machine Learning techniques
 - Model Deployment using Streamlit
-- Data Science project development
+- Building end-to-end Data Science projects
 - Improving SQL and Data Analytics skills
 
 
@@ -55,17 +55,17 @@
 
 ### 🚲 Bike Rental Demand Prediction
 
-A Machine Learning Regression project to predict bike rental demand using weather conditions, seasonal patterns, and historical data.
+A Machine Learning Regression project focused on predicting bike rental demand using weather conditions, seasonal trends, and historical usage patterns.
 
-**Technologies:**
+**Tools & Technologies:**
 Python | Machine Learning | Scikit-learn | CatBoost | Streamlit
 
 
 ### ⏰ Employee Overtime Prediction
 
-A Machine Learning Classification project to predict employee overtime using multiple classification algorithms.
+A Machine Learning Classification project focused on predicting employee overtime patterns using classification techniques and data-driven insights.
 
-**Technologies:**
+**Tools & Technologies:**
 Python | SQL | Scikit-learn | Streamlit
 
 
