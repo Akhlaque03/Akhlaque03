@@ -68,3 +68,20 @@ Machine Learning Classification project to predict employee overtime using multi
 <p align="center">
   <img src="https://raw.githubusercontent.com/Akhlaque03/Akhlaque03/gh-pages/github-contribution-grid-snake.svg" />
 </p>
+
+
+
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/akhlaque-alam-788a53410/">
+<img src="https://img.shields.io/badge/LinkedIn-Akhlaque%20Alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Akhlaque03">
+<img src="https://img.shields.io/badge/GitHub-Akhlaque03-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
