@@ -67,3 +67,11 @@ A Machine Learning Classification project to predict employee overtime using mul
 
 **Technologies:**
 Python | SQL | Scikit-learn | Streamlit
+
+
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhlaque03&theme=tokyonight" />
+</p>
