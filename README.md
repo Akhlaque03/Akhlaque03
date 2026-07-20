@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akhlaque03/Akhlaque03/main/banner.png" />
+</p>
+
+
+
 <h1 align="center">
   Hi 👋, I'm Akhlaque Alam
 </h1>
