@@ -30,7 +30,7 @@
 - Advanced Machine Learning techniques
 - Model Deployment using Streamlit
 - Data Science project development
-- Improving SQL and Data Analytics skillsv
+- Improving SQL and Data Analytics skills
 
 
 
