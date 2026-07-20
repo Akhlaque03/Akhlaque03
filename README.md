@@ -48,3 +48,22 @@
 <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge"/>
 
 </p>
+
+
+
+## Projects
+
+### 🚲 Bike Rental Demand Prediction
+
+A Machine Learning Regression project to predict bike rental demand using weather conditions, seasonal patterns, and historical data.
+
+**Technologies:**
+Python | Machine Learning | Scikit-learn | CatBoost | Streamlit
+
+
+### ⏰ Employee Overtime Prediction
+
+A Machine Learning Classification project to predict employee overtime using multiple classification algorithms.
+
+**Technologies:**
+Python | SQL | Scikit-learn | Streamlit
