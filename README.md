@@ -48,4 +48,4 @@ Machine Learning Regression project to predict bike rental demand using weather 
 ### ⏰ Employee Overtime Prediction
 Machine Learning Classification project to predict employee overtime using multiple ML algorithms.
 
-**Tools:** Python | SQL | Scikit-learn | Streamlit
+**Tools:** Python | Scikit-learn | Streamlit
