@@ -1,36 +1,80 @@
-# Hi, I'm Akhlaque Alam 
+<h1 align="center">Hi 👋, I'm Akhlaque Alam</h1>
 
-## Data Science & Machine Learning Enthusiast
+<h3 align="center">Aspiring Data Scientist from India 🇮🇳</h3>
 
-I am passionate about building data-driven solutions using Machine Learning, Python, and SQL.
-
-##  Skills
-
-- Python
-- SQL
-- Pandas & NumPy
-- Data Analysis
-- Machine Learning
-- Scikit-learn
-- XGBoost
-- LightGBM
-- CatBoost
-- Streamlit
-- Tableau
-
-##  Featured Projects
-
-### 🚲 Bike Rental Demand Prediction
-Machine Learning Regression project predicting hourly bike rental demand using weather conditions, seasonal patterns, and CatBoost Regressor with Streamlit deployment.
-
-### ⏰ Employee OverTime Prediction
-Classification project predicting employee overtime probability using multiple machine learning algorithms and Streamlit deployment.
-
-##  Connect With Me
-
-LinkedIn:
-https://www.linkedin.com/in/akhlaque-alam-788a53410/
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Enthusiast;Data+Scientist;Open+to+Internship" />
+</p>
 
 ---
 
-⭐ Always learning and building Machine Learning projects.
+## 🚀 About Me
+
+- 🌱 Currently Learning **Data Science**
+- 💻 Python | SQL | Machine Learning
+- 📊 Tableau | Pandas | NumPy
+- 🤖 Scikit-Learn
+- 📍 India
+- 🎯 Open to Data Science Internship
+
+---
+
+## 🛠️ Skills
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhlaque03&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhlaque03&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhlaque03&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Akhlaque03&theme=algolia&column=4"/>
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+🚲 Bike Rental Demand Prediction
+
+👨‍💼 Employee Attrition Prediction
+
+✈ Flight Ticket Price Prediction
+
+🚗 Car Price Prediction
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn : (Add after creating)
+
+Email : Your Email
