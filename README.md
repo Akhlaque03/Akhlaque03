@@ -49,3 +49,15 @@ Machine Learning Regression project to predict bike rental demand using weather 
 Machine Learning Classification project to predict employee overtime using multiple ML algorithms.
 
 **Tools:** Python | Scikit-learn | Streamlit
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Akhlaque03&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhlaque03&layout=compact&theme=tokyonight" />
+
+</p>
