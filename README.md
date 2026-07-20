@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akhlaque03/Akhlaque03/main/banner.png" />
-</p>
-
-
-
 <h1 align="center">
   Hi 👋, I'm Akhlaque Alam
 </h1>
@@ -83,13 +77,6 @@ Python | SQL | Scikit-learn | Streamlit
 </p>
 
 
-
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhlaque03&show_icons=true&theme=tokyonight" />
-</p>
 
 
 
