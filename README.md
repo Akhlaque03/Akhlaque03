@@ -36,3 +36,16 @@
 
 </p>
 
+
+## 🚀 Featured Projects
+
+### 🚲 Bike Rental Demand Prediction
+Machine Learning Regression project to predict bike rental demand using weather and seasonal data.
+
+**Tools:** Python | Machine Learning | CatBoost | Streamlit
+
+
+### ⏰ Employee Overtime Prediction
+Machine Learning Classification project to predict employee overtime using multiple ML algorithms.
+
+**Tools:** Python | SQL | Scikit-learn | Streamlit
