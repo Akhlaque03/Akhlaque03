@@ -92,3 +92,11 @@ Machine Learning Classification project to predict employee overtime using multi
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akhlaque03&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
+
+
+
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akhlaque03&theme=tokyonight&row=1&column=6" />
+</p>
