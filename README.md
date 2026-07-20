@@ -52,6 +52,10 @@ Machine Learning Classification project to predict employee overtime using multi
 
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=Akhlaque03&show_icons=true&theme=tokyonight" />
+
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
