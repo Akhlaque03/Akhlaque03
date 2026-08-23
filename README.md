@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm an **Aspiring Data Scientist** passionate about turning data into practical, machine-learning-driven solutions.
 
@@ -23,33 +23,33 @@ I'm an **Aspiring Data Scientist** passionate about turning data into practical,
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
-### 🐍 Programming & Data
+###  Programming & Data
 
 `Python` `SQL` `Pandas` `NumPy`
 
-### 🤖 Machine Learning
+###  Machine Learning
 
 `Scikit-learn` `XGBoost` `LightGBM` `CatBoost`
 
-### 📊 Analytics & Visualization
+###  Analytics & Visualization
 
 `EDA` `Matplotlib` `Tableau`
 
-### 🚀 Deployment & Tools
+###  Deployment & Tools
 
 `Streamlit` `Git` `GitHub` `Jupyter Notebook`
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
 ### 🚦 Metro Traffic Volume Prediction
 
 > **End-to-end ML regression system for predicting hourly metro traffic volume using weather, calendar, and time-based features.**
 
-### 🏆 Model Performance
+###  Model Performance
 
 | Metric       |  Final Model |
 | :----------- | -----------: |
@@ -59,12 +59,12 @@ I'm an **Aspiring Data Scientist** passionate about turning data into practical,
 
 ### ⚡ Project Highlights
 
-* 🔬 Evaluated **9 regression algorithms**
-* 🎯 Tuned **XGBoost, LightGBM, CatBoost & Random Forest**
-* 🏆 Selected **Tuned LightGBM** as the final model
-* 📊 Performed feature importance analysis
-* 🌐 Built an interactive **Streamlit application**
-* 🚀 **Deployed publicly**
+*  Evaluated **9 regression algorithms**
+*  Tuned **XGBoost, LightGBM, CatBoost & Random Forest**
+*  Selected **Tuned LightGBM** as the final model
+*  Performed feature importance analysis
+*  Built an interactive **Streamlit application**
+*  **Deployed publicly**
 
 <p align="center">
   <a href="https://akhlaque03-metro-traffic-prediction.streamlit.app/">
@@ -74,7 +74,7 @@ I'm an **Aspiring Data Scientist** passionate about turning data into practical,
 
 ---
 
-## 📂 Other Projects
+
 
 ### 🚲 Bike Rental Demand Prediction
 
@@ -94,13 +94,13 @@ Classification project focused on predicting employee overtime patterns using ma
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 `Advanced Machine Learning` • `Feature Engineering` • `Model Validation` • `Hyperparameter Tuning` • `Model Deployment` • `Production ML` • `SQL` • `Tableau`
 
 ---
 
-## 🎯 Career Focus
+##  Career Focus
 
 Building **industry-oriented Data Science & Machine Learning projects** and developing complete solutions from **raw data to deployment**.
 
@@ -108,7 +108,7 @@ I'm interested in opportunities where I can apply **Python, SQL, Machine Learnin
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akhlaque-alam-788a53410/">
