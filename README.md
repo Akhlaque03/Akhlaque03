@@ -10,119 +10,116 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm an **Aspiring Data Scientist** focused on building practical, real-world machine learning solutions.
+I'm an **Aspiring Data Scientist** passionate about turning data into practical, machine-learning-driven solutions.
 
-I enjoy working across the complete data science workflow:
+🔹 **Data Analysis** → EDA, SQL, Data Visualization
+🔹 **Machine Learning** → Regression, Classification, Feature Engineering
+🔹 **Model Optimization** → Validation, Evaluation, Hyperparameter Tuning
+🔹 **Deployment** → Streamlit & End-to-End ML Applications
 
-**Data → EDA → Feature Engineering → Model Development → Evaluation → Deployment**
-
-* 🐍 Python for Data Science
-* 🗄️ SQL for Data Analysis
-* 📊 Exploratory Data Analysis & Data Visualization
-* 🤖 Regression & Classification
-* ⚙️ Feature Engineering & Model Evaluation
-* 🎯 Hyperparameter Tuning
-* 🚀 Machine Learning Model Deployment
-* 🌐 Interactive ML applications with Streamlit
+> **My workflow:** `Raw Data → EDA → Feature Engineering → Modeling → Evaluation → Deployment`
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### Programming & Data
+### 🐍 Programming & Data
 
 `Python` `SQL` `Pandas` `NumPy`
 
-### Machine Learning
+### 🤖 Machine Learning
 
 `Scikit-learn` `XGBoost` `LightGBM` `CatBoost`
 
-### Data Analysis & Visualization
+### 📊 Analytics & Visualization
 
 `EDA` `Matplotlib` `Tableau`
 
-### Deployment & Tools
+### 🚀 Deployment & Tools
 
 `Streamlit` `Git` `GitHub` `Jupyter Notebook`
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Project
 
 ### 🚦 Metro Traffic Volume Prediction
 
-End-to-end machine learning regression project for predicting **hourly metro traffic volume** using weather, calendar, and time-based features.
+> **End-to-end ML regression system for predicting hourly metro traffic volume using weather, calendar, and time-based features.**
 
-**Highlights:**
+### 🏆 Model Performance
 
-* Evaluated **9 regression algorithms**
-* Hyperparameter tuning with **XGBoost, LightGBM, CatBoost & Random Forest**
-* Selected **Tuned LightGBM** as the final model
-* **R² Score: 0.9820**
-* **MAE: 167.2658**
-* **RMSE: 268.0290**
-* Feature importance analysis
-* Interactive Streamlit application
-* Publicly deployed ML application
+| Metric       |  Final Model |
+| :----------- | -----------: |
+| **R² Score** |   **0.9820** |
+| **MAE**      | **167.2658** |
+| **RMSE**     | **268.0290** |
 
-🔗 **[Live Demo](https://akhlaque03-metro-traffic-prediction.streamlit.app/)**
+### ⚡ Project Highlights
+
+* 🔬 Evaluated **9 regression algorithms**
+* 🎯 Tuned **XGBoost, LightGBM, CatBoost & Random Forest**
+* 🏆 Selected **Tuned LightGBM** as the final model
+* 📊 Performed feature importance analysis
+* 🌐 Built an interactive **Streamlit application**
+* 🚀 **Deployed publicly**
+
+<p align="center">
+  <a href="https://akhlaque03-metro-traffic-prediction.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
+## 📂 Other Projects
+
 ### 🚲 Bike Rental Demand Prediction
 
-Machine learning regression project focused on predicting bike rental demand using weather conditions, seasonal patterns, and historical usage information.
+Regression project predicting bike rental demand using weather conditions, seasonal patterns, and historical usage information.
 
-**Technologies:**
-`Python` `Machine Learning` `Scikit-learn` `CatBoost` `Streamlit`
+**Stack:**
+`Python` `Scikit-learn` `CatBoost` `Streamlit`
 
 ---
 
 ### 👨‍💼 Employee Overtime Prediction
 
-Machine learning classification project focused on predicting employee overtime patterns using data-driven analysis and classification techniques.
+Classification project focused on predicting employee overtime patterns using machine learning and data-driven analysis.
 
-**Technologies:**
+**Stack:**
 `Python` `SQL` `Scikit-learn` `Streamlit`
 
 ---
 
 ## 📚 Currently Learning
 
-* Advanced Machine Learning
-* Feature Engineering
-* Model Validation
-* Hyperparameter Tuning
-* Model Deployment
-* Production Machine Learning
-* SQL & Data Analytics
-* Tableau
+`Advanced Machine Learning` • `Feature Engineering` • `Model Validation` • `Hyperparameter Tuning` • `Model Deployment` • `Production ML` • `SQL` • `Tableau`
 
 ---
 
 ## 🎯 Career Focus
 
-I'm focused on developing **industry-oriented Data Science and Machine Learning projects** and building complete, deployable solutions for real-world problems.
+Building **industry-oriented Data Science & Machine Learning projects** and developing complete solutions from **raw data to deployment**.
 
-I'm particularly interested in opportunities where I can apply **Python, SQL, Machine Learning, and Data Analysis** to solve practical business problems.
+I'm interested in opportunities where I can apply **Python, SQL, Machine Learning, and Data Analysis** to solve practical business problems.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/akhlaque-alam-788a53410/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Akhlaque03">
-    <img src="https://img.shields.io/badge/GitHub-Akhlaque03-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  ⭐ <b>Thanks for visiting my profile!</b>
 </p>
+
