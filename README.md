@@ -1,125 +1,143 @@
-<h1 align="center">👋 Hi, I'm Akhlaque Alam</h1>
+# Hi, I'm Akhlaque Alam 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning;Building+Real-World+ML+Projects" />
+### Aspiring Data Scientist | Python | SQL | Machine Learning
+
+I'm a **Data Science enthusiast** focused on building practical, end-to-end machine learning solutions and turning data into meaningful insights.
+
+* 🔭 Currently working on **Machine Learning & Data Science projects**
+* 🌱 Currently learning **Advanced Machine Learning, Unsupervised Learning & Model Deployment**
+* 🧠 Interested in **Predictive Modeling, Customer Segmentation & Data Analytics**
+* 🛠️ Building projects with **Python, SQL, Scikit-learn, XGBoost, LightGBM & CatBoost**
+* 📊 Exploring **Tableau & Data Visualization**
+* 🚀 Interested in deploying ML models using **Streamlit**
+* 📫 Open to **Data Science Internships & Opportunities**
+
+---
+
+## 🧰 Tech Stack
+
+### Programming & Data Analysis
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-<p align="center">
-  <b>Python • SQL • Machine Learning • Data Analysis</b>
+### Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black"/>
 </p>
 
----
+### Visualization & Deployment
 
-##  About Me
-
-I'm an **Aspiring Data Scientist** passionate about turning data into practical, machine-learning-driven solutions.
-
-🔹 **Data Analysis** → EDA, SQL, Data Visualization
-🔹 **Machine Learning** → Regression, Classification, Feature Engineering
-🔹 **Model Optimization** → Validation, Evaluation, Hyperparameter Tuning
-🔹 **Deployment** → Streamlit & End-to-End ML Applications
-
-> **My workflow:** `Raw Data → EDA → Feature Engineering → Modeling → Evaluation → Deployment`
-
----
-
-##  Tech Stack
-
-###  Programming & Data
-
-`Python` `SQL` `Pandas` `NumPy`
-
-###  Machine Learning
-
-`Scikit-learn` `XGBoost` `LightGBM` `CatBoost`
-
-###  Analytics & Visualization
-
-`EDA` `Matplotlib` `Tableau`
-
-###  Deployment & Tools
-
-`Streamlit` `Git` `GitHub` `Jupyter Notebook`
-
----
-
-##  Featured Project
-
-### 🚦 Metro Traffic Volume Prediction
-
-> **End-to-end ML regression system for predicting hourly metro traffic volume using weather, calendar, and time-based features.**
-
-###  Model Performance
-
-| Metric       |  Final Model |
-| :----------- | -----------: |
-| **R² Score** |   **0.9820** |
-| **MAE**      | **167.2658** |
-| **RMSE**     | **268.0290** |
-
-### ⚡ Project Highlights
-
-*  Evaluated **9 regression algorithms**
-*  Tuned **XGBoost, LightGBM, CatBoost & Random Forest**
-*  Selected **Tuned LightGBM** as the final model
-*  Performed feature importance analysis
-*  Built an interactive **Streamlit application**
-*  **Deployed publicly**
-
-<p align="center">
-  <a href="https://akhlaque03-metro-traffic-prediction.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
 </p>
 
 ---
 
-
+## 🚀 Featured Projects
 
 ### 🚲 Bike Rental Demand Prediction
 
-Regression project predicting bike rental demand using weather conditions, seasonal patterns, and historical usage information.
+**Machine Learning Regression | CatBoost | Streamlit**
 
-**Stack:**
-`Python` `Scikit-learn` `CatBoost` `Streamlit`
+* Built a machine learning model to predict bike rental demand.
+* Applied data preprocessing, feature engineering and model evaluation.
+* Used **CatBoost Regressor** for prediction.
+* Deployed the model using **Streamlit**.
+
+### 🍔 Food Delivery Time Prediction
+
+**Regression | MLflow | Model Comparison**
+
+* Developed a regression solution for predicting food delivery time.
+* Compared multiple machine learning algorithms.
+* Performed model evaluation and hyperparameter tuning.
+* Used **MLflow** for experiment tracking and model management.
+
+### 🚗 Car Price Prediction
+
+**Regression | Machine Learning**
+
+* Built a machine learning model for predicting car prices.
+* Performed exploratory data analysis and preprocessing.
+* Compared multiple regression algorithms.
+* Evaluated models using appropriate regression metrics.
+
+### ✈️ Flight Ticket Price Prediction
+
+**Regression | Machine Learning**
+
+* Developed a model for predicting flight ticket prices.
+* Performed data preprocessing and feature engineering.
+* Trained and evaluated multiple machine learning models.
+
+### 🛍️ Customer Segmentation & RFM Analysis
+
+**Unsupervised Learning | K-Means | RFM**
+
+* Performed customer segmentation using **RFM analysis**.
+* Applied feature scaling and **K-Means clustering**.
+* Used **Elbow Method** and **Silhouette Score** for cluster evaluation.
+* Profiled customer segments to identify meaningful business groups.
 
 ---
 
-### 👨‍💼 Employee Overtime Prediction
+## 📚 Currently Learning
 
-Classification project focused on predicting employee overtime patterns using machine learning and data-driven analysis.
+```text
+Machine Learning
+├── Supervised Learning
+├── Unsupervised Learning
+│   ├── K-Means
+│   ├── Hierarchical Clustering
+│   ├── DBSCAN
+│   └── Gaussian Mixture Models
+├── Dimensionality Reduction
+│   ├── PCA
+│   ├── t-SNE
+│   └── UMAP
+└── Model Evaluation & Optimization
 
-**Stack:**
-`Python` `SQL` `Scikit-learn` `Streamlit`
+Data Science Tools
+├── SQL
+├── Tableau
+├── MLflow
+└── Streamlit
+```
 
 ---
 
-##  Currently Learning
+## 🎯 My Goal
 
-`Advanced Machine Learning` • `Feature Engineering` • `Model Validation` • `Hyperparameter Tuning` • `Model Deployment` • `Production ML` • `SQL` • `Tableau`
-
----
-
-##  Career Focus
-
-Building **industry-oriented Data Science & Machine Learning projects** and developing complete solutions from **raw data to deployment**.
-
-I'm interested in opportunities where I can apply **Python, SQL, Machine Learning, and Data Analysis** to solve practical business problems.
+> To build impactful, data-driven solutions and grow as a **Data Scientist** by continuously improving my skills in machine learning, analytics and real-world problem solving.
 
 ---
 
-##  Let's Connect
+## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/akhlaque-alam-788a53410/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Akhlaque03">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b>
-</p>
+---
 
+### ⭐ Thanks for visiting my profile!
+
+If you find my projects useful, feel free to ⭐ **star** the repositories.
