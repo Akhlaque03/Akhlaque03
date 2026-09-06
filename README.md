@@ -74,3 +74,16 @@ I enjoy working with data to uncover meaningful insights, build predictive model
 -  **Advanced Data Analysis & Visualization**
 -  **Model Deployment & MLOps**
 -  **Tableau for Data Analytics**
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhlaque03&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhlaque03&layout=compact&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akhlaque03&hide_border=true" />
+</p>
