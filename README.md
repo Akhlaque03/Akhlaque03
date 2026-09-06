@@ -87,3 +87,10 @@ I enjoy working with data to uncover meaningful insights, build predictive model
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=akhlaque03&hide_border=true" />
 </p>
+
+
+## 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akhlaque03/akhlaque03/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
