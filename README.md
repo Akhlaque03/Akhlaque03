@@ -17,3 +17,48 @@ I enjoy working with data to uncover meaningful insights, build predictive model
 -  Exploring **Data Visualization & Tableau**
 -  Learning **Model Deployment & MLOps**
 -  Continuously improving my **Data Science skills**
+
+
+##  Tech Stack
+
+###  Programming & Data Analysis
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas" />
+</p>
+
+###  Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" />
+</p>
+
+###  Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+###  Data Visualization
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=tableau" />
+</p>
+
+###  Deployment & MLOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=streamlit,docker" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
+</p>
+
+###  Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
