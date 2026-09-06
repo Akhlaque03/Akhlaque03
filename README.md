@@ -62,3 +62,15 @@ I enjoy working with data to uncover meaningful insights, build predictive model
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+
+
+
+##  Currently Learning
+
+-  **Advanced Machine Learning**
+-  **Unsupervised Learning & Clustering**
+-  **Dimensionality Reduction**
+-  **Advanced Data Analysis & Visualization**
+-  **Model Deployment & MLOps**
+-  **Tableau for Data Analytics**
