@@ -50,9 +50,9 @@ Data Scientist.
 
 <div align="center">
 
-<h3><span style="color:#06B6D4;">Programming & Database</span></h3>
+<h3><span style="color:#00E5FF;">Programming & Database</span></h3>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br><br>
@@ -67,13 +67,13 @@ Data Scientist.
 <h3><span style="color:#FF4FD8;">Data Visualization</span></h3>
 
 <img src="https://img.shields.io/badge/Matplotlib-06B6D4?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <br><br>
 
-<h3><span style="color:#06B6D4;">Machine Learning</span></h3>
+<h3><span style="color:#00E5FF;">Machine Learning</span></h3>
 
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-FF4F00?style=for-the-badge"/>
@@ -93,8 +93,9 @@ Data Scientist.
 <h3><span style="color:#FF4FD8;">Development & Tools</span></h3>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-FF4FD8?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
 </div>
