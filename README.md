@@ -156,3 +156,24 @@ Data Scientist.
 </a>
 
 </div>
+
+
+
+
+
+
+
+
+
+<h2 align="center">
+  <span style="color:#A855F7;">Currently Learning</span>
+</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20Machine%20Learning-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unsupervised%20Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-FF4FD8?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-06B6D4?style=for-the-badge"/>
+
+</div>
