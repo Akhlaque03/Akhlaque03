@@ -89,17 +89,17 @@ I enjoy working with data to uncover meaningful insights, build predictive model
 </p>
 
 
-
-
 ## 🐍 My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akhlaque03/akhlaque03/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/akhlaque03/akhlaque03/output/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akhlaque03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+
 
 ## 🤝 Connect With Me
 
