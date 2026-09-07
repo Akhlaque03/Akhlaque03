@@ -9,9 +9,10 @@
 </div> -->
 
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:064e3b,100:10b981&height=210&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Akhlaque%20Alam&fontSize=42&fontColor=d1fae5&fontAlignY=42&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:064e3b,100:10b981&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Akhlaque%20Alam&fontSize=42&fontColor=d1fae5&fontAlignY=45&animation=fadeIn" />
 
 <br>
 
