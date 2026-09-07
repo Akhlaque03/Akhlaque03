@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f172a,50:1e3a8a,100:312e81&height=230&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Akhlaque%20Alam&fontSize=42&fontColor=ff4d4d&fontAlignY=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,45:1e3a8a,100:312e81&height=240&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Akhlaque%20Alam&fontSize=42&fontColor=ff4d4d&fontAlignY=42&animation=fadeIn&desc=&descAlignY=65" />
 
 <br>
 
