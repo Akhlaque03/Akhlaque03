@@ -132,3 +132,30 @@ Data Scientist.
 <img src="https://raw.githubusercontent.com/akhlaque03/akhlaque03/output/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
+
+
+
+
+
+```html
+<h2 align="center">
+  <span style="color:#06B6D4;">Connect With Me</span>
+</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/akhlaque03/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/akhlaque03">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:akhlaquealam5142@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF4FD8?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+```
+
