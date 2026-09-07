@@ -13,24 +13,30 @@
 
 
 
-<div align="center">
-
-## ⚡ Tech Stack & Skills
-
-</div>
+<h2 align="center">
+  <span style="color:#06B6D4;">About Me</span>
+</h2>
 
 <div align="center">
 
-### 🐍 Programming & Data
-Python • SQL • Pandas • NumPy
+<p>
+I’m an aspiring Data Scientist passionate about transforming raw data into
+meaningful insights and practical solutions.
+</p>
 
-### 🤖 Machine Learning
-Scikit-learn • XGBoost • LightGBM • CatBoost
+<p>
+I work with Data Analysis, Data Visualization, Machine Learning, SQL, and Tableau,
+with a strong focus on building real-world data science projects.
+</p>
 
-### 📊 Data Visualization
-Matplotlib • Seaborn • Tableau
+<p>
+Currently, I’m continuously improving my analytical and machine learning skills
+while exploring new technologies and solving data-driven problems.
+</p>
 
-### 🛠️ Tools & Platforms
-GitHub • Streamlit • MLflow • Docker
+<p>
+My goal is to build impactful data science solutions and grow as a professional
+Data Scientist.
+</p>
 
 </div>
