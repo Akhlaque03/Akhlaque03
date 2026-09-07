@@ -99,6 +99,18 @@ I enjoy working with data to uncover meaningful insights, build predictive model
   <img src="https://komarev.com/ghpvc/?username=akhlaque03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhlaque03&bg_color=0d1117&color=39ff88&line=00c853&point=ffffff&area=true&hide_border=true" />
+</p>
+
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akhlaque03&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" />
+</p>
 
 
 ## 🤝 Connect With Me
