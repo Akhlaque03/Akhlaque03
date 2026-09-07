@@ -119,3 +119,16 @@ Data Scientist.
 
 </div>
 
+
+
+
+
+<h2 align="center">
+  <span style="color:#FF4FD8;">Contribution Snake</span>
+</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/akhlaque03/akhlaque03/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
