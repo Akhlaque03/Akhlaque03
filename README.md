@@ -34,7 +34,13 @@ Currently, I’m continuously improving my analytical and machine learning skill
 while exploring new technologies and solving data-driven problems.
 </p>
 
+</div>
+<p>
+My goal is to build impactful data science solutions and grow as a professional
+Data Scientist.
+</p>
 
+</div>
 
 
 <h2 align="center">
@@ -63,10 +69,3 @@ while exploring new technologies and solving data-driven problems.
 <img src="https://skillicons.dev/icons?i=docker" height="45"/>
 <img src="https://skillicons.dev/icons?i=streamlit" height="45"/>
 
-</div>
-<p>
-My goal is to build impactful data science solutions and grow as a professional
-Data Scientist.
-</p>
-
-</div>
