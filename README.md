@@ -89,8 +89,25 @@ I enjoy working with data to uncover meaningful insights, build predictive model
 </p>
 
 
+
+
 ## 🐍 My Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/akhlaque03/akhlaque03/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akhlaque03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akhlaque03/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:akhlaquealam5142@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
