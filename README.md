@@ -34,13 +34,13 @@ Currently, I’m continuously improving my analytical and machine learning skill
 while exploring new technologies and solving data-driven problems.
 </p>
 
-</div>
 <p>
 My goal is to build impactful data science solutions and grow as a professional
 Data Scientist.
 </p>
 
 </div>
+
 
 
 <h2 align="center">
