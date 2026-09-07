@@ -10,3 +10,27 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3500&pause=1200&color=FF4FD8&center=true&vCenter=true&width=950&lines=Aspiring+Data+Scientist;Data+Analyst+%7C+Data+Visualization;Machine+Learning+%7C+SQL+%7C+Tableau;Turning+Data+into+Meaningful+Insights;Building+Real-World+Data+Science+Solutions" alt="Typing SVG" />
 
 </div>
+
+
+
+<div align="center">
+
+## ⚡ Tech Stack & Skills
+
+</div>
+
+<div align="center">
+
+### 🐍 Programming & Data
+Python • SQL • Pandas • NumPy
+
+### 🤖 Machine Learning
+Scikit-learn • XGBoost • LightGBM • CatBoost
+
+### 📊 Data Visualization
+Matplotlib • Seaborn • Tableau
+
+### 🛠️ Tools & Platforms
+GitHub • Streamlit • MLflow • Docker
+
+</div>
