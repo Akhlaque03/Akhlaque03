@@ -4,10 +4,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=86EFAC&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist;Data+Analysis+%7C+Machine+Learning+%7C+SQL+%7C+Tableau;Turning+Data+into+Actionable+Insights;Building+Data-Driven+Solutions" alt="Typing Animation" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Data%20%7C%20Analytics%20%7C%20Machine%20Learning-0f172a?style=for-the-badge&labelColor=0f172a&color=16a34a" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=86EFAC&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist;Data+Analysis+%7C+Data+Visualization;Machine+Learning+%7C+SQL+%7C+Tableau;Building+Data-Driven+Solutions;Turning+Complex+Data+into+Meaningful+Insights;Learning+%7C+Building+%7C+Improving" alt="Typing Animation" />
 
 </div>
