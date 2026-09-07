@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Akhlaque Alam">
+  <img src="./header.svg" width="100%" alt="Akhlaque Alam Header">
 </p>
