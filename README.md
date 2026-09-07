@@ -109,9 +109,13 @@ Data Scientist.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akhlaque03&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4FD8&icon_color=00E5FF&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akhlaque03&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4FD8&icon_color=00E5FF&text_color=FFFFFF&count_private=true" height="180"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhlaque03&theme=2077" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhlaque03&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&langs_count=6" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhlaque03&hide_border=true&background=0D1117&ring=FF4FD8&fire=FF4FD8&currStreakLabel=00E5FF&sideLabels=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="75%"/>
 
 </div>
 
