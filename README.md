@@ -8,38 +8,45 @@
 
 </div>
 
+---
 
 ## 👨‍💻 About Me
 
-I'm an **Aspiring Data Scientist** passionate about turning data into meaningful insights and building practical machine learning solutions.
+I'm an **Aspiring Data Scientist** passionate about transforming data into meaningful insights and building practical machine learning solutions.
 
 - 📊 Analyzing data to discover meaningful patterns and insights
 - 🤖 Building and evaluating machine learning models
-- ⚙️ Working with feature engineering and model optimization
+- ⚙️ Applying feature engineering and model optimization techniques
 - 📈 Creating data visualizations and interactive dashboards
 - 🚀 Exploring model deployment and MLOps
 - 📚 Continuously learning and improving my Data Science skills
 
+---
 
 ## 🛠️ Technical Skills
 
 ### 🐍 Programming
+
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### 📊 Data Analysis
+### 📊 Data Analysis & EDA
+
 <p>
   <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-2E7D32?style=for-the-badge" />
 </p>
 
-### 🗄️ Database
+### 🗄️ SQL & Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/SQL-Structured%20Query%20Language-2E7D32?style=for-the-badge" />
 </p>
 
 ### 📈 Data Visualization & BI
+
 <p>
   <img src="https://skillicons.dev/icons?i=matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
@@ -48,21 +55,24 @@ I'm an **Aspiring Data Scientist** passionate about turning data into meaningful
 </p>
 
 ### 🤖 Machine Learning
+
 <p>
   <img src="https://img.shields.io/badge/Regression-2E7D32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Classification-2E7D32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clustering-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Time%20Series-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-2E7D32?style=for-the-badge" />
 </p>
 
 ### ⚙️ ML Techniques
+
 <p>
   <img src="https://img.shields.io/badge/Feature%20Engineering-2E7D32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Model%20Evaluation-2E7D32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-2E7D32?style=for-the-badge" />
 </p>
 
-### 🧠 ML Libraries
+### 🧠 ML Libraries & Algorithms
+
 <p>
   <img src="https://skillicons.dev/icons?i=sklearn" />
   <img src="https://img.shields.io/badge/XGBoost-2E7D32?style=for-the-badge" />
@@ -71,17 +81,20 @@ I'm an **Aspiring Data Scientist** passionate about turning data into meaningful
 </p>
 
 ### 🚀 Deployment & MLOps
+
 <p>
   <img src="https://skillicons.dev/icons?i=streamlit,docker" />
   <img src="https://img.shields.io/badge/MLflow-2E7D32?style=for-the-badge" />
 </p>
 
-### 💻 Tools
+### 💻 Development & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=jupyter,vscode,git,github" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
+---
 
 ## 📚 Currently Learning
 
@@ -93,6 +106,7 @@ I'm an **Aspiring Data Scientist** passionate about turning data into meaningful
   <img src="https://img.shields.io/badge/Tableau%20Analytics-2E7D32?style=for-the-badge" />
 </p>
 
+---
 
 ## 📊 GitHub Stats
 
@@ -105,13 +119,15 @@ I'm an **Aspiring Data Scientist** passionate about turning data into meaningful
   <img src="https://streak-stats.demolab.com?user=akhlaque03&hide_border=true" />
 </p>
 
+---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhlaque03&bg_color=0d1117&color=39ff88&line=00c853&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhlaque03&bg_color=0d1117&color=39ff88&line=00c853&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
+---
 
 ## 🐍 Contribution Activity
 
@@ -119,6 +135,7 @@ I'm an **Aspiring Data Scientist** passionate about turning data into meaningful
   <img src="https://raw.githubusercontent.com/akhlaque03/akhlaque03/output/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
+---
 
 ## 🏆 GitHub Achievements
 
@@ -126,19 +143,23 @@ I'm an **Aspiring Data Scientist** passionate about turning data into meaningful
   <img src="https://github-profile-trophy.vercel.app/?username=akhlaque03&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" />
 </p>
 
+---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akhlaque03/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
-  <a href="mailto:akhlaquealam5142@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/akhlaque03/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:akhlaquealam5142@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akhlaque03&label=Profile%20Views&color=39ff88&style=flat" alt="Profile Views" />
