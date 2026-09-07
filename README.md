@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:064e3b,100:10b981&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Akhlaque%20Alam&fontSize=42&fontColor=d1fae5&fontAlignY=45&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,35:0f172a,70:7f1d1d,100:dc2626&height=240&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Akhlaque%20Alam&fontSize=42&fontColor=ff4d4d&fontAlignY=45&stroke=7f1d1d&strokeWidth=1&animation=fadeIn" />
 
 <br>
 
