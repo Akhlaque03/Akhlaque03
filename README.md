@@ -49,23 +49,49 @@ Data Scientist.
 
 <div align="center">
 
-### Programming & Data
+<h3>Programming & Database</h3>
 
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-<img src="https://skillicons.dev/icons?i=pandas" height="45"/>
-<img src="https://skillicons.dev/icons?i=numpy" height="45"/>
+<img src="https://skillicons.dev/icons?i=python,mysql" height="50"/>
 
-### Machine Learning
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=sklearn" height="45"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+<h3>Data Analysis</h3>
 
-### Data Visualization & Tools
+<img src="https://skillicons.dev/icons?i=numpy,pandas" height="50"/>
 
-<img src="https://skillicons.dev/icons?i=matplotlib" height="45"/>
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-<img src="https://skillicons.dev/icons?i=docker" height="45"/>
-<img src="https://skillicons.dev/icons?i=streamlit" height="45"/>
+<br><br>
 
+<h3>Data Visualization</h3>
+
+<img src="https://skillicons.dev/icons?i=matplotlib,seaborn" height="50"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Tableau-7B61FF?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<br><br>
+
+<h3>Machine Learning</h3>
+
+<img src="https://skillicons.dev/icons?i=sklearn" height="50"/>
+&nbsp;
+<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black"/>
+
+<br><br>
+
+<h3>Deployment & MLOps</h3>
+
+<img src="https://skillicons.dev/icons?i=streamlit,docker,aws" height="50"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+
+<br><br>
+
+<h3>Development & Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=github,git,jupyter" height="50"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+</div>
