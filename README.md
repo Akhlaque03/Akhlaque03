@@ -137,7 +137,6 @@ Data Scientist.
 
 
 
-```html
 <h2 align="center">
   <span style="color:#06B6D4;">Connect With Me</span>
 </h2>
@@ -157,5 +156,5 @@ Data Scientist.
 </a>
 
 </div>
-```
+
 
