@@ -34,6 +34,36 @@ Currently, I’m continuously improving my analytical and machine learning skill
 while exploring new technologies and solving data-driven problems.
 </p>
 
+
+
+
+<h2 align="center">
+  <span style="color:#A855F7;">Tech Stack & Skills</span>
+</h2>
+
+<div align="center">
+
+### Programming & Data
+
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://skillicons.dev/icons?i=pandas" height="45"/>
+<img src="https://skillicons.dev/icons?i=numpy" height="45"/>
+
+### Machine Learning
+
+<img src="https://skillicons.dev/icons?i=sklearn" height="45"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+
+### Data Visualization & Tools
+
+<img src="https://skillicons.dev/icons?i=matplotlib" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+<img src="https://skillicons.dev/icons?i=streamlit" height="45"/>
+
+</div>
 <p>
 My goal is to build impactful data science solutions and grow as a professional
 Data Scientist.
